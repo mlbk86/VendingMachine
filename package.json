@@ -1,0 +1,19 @@
+{
+  "name": "vending-machine",
+  "version": "0.0.1",
+  "description": "Vending machine coin return algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlbk86/VendingMachine.git"
+  },
+  "author": "mlbk86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlbk86/VendingMachine/issues"
+  },
+  "homepage": "https://github.com/mlbk86/VendingMachine#readme"
+}
